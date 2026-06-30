@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0326/WYG/v1/juan/5
+seq: 5
+front:
+  text: 方壺存稿
+  hash: sha256:b65ec699e69fbb5c3ef97ece04b812a87e533a79dbc8037ff0411a73b57d6c5d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0326_WYG_005-1a, image: WYG1178/WYG1178-0143a.png}
+body:
+  text: 徐誼書誼頓首再拜叔耕秘正契友誼妄意欲以文學履行上之於朝前書已常畧陳之矣今移牒州縣使備書吏筆札就宅上抄録著述又嘗以書嘱南老運幹董督其事若春間畢事便當從南昌附奏恐州縣未悉此意先自納之官劵以為紙筆之需辱領畧幸甚百懐續得叙布不宣誼頓首再拜
+  hash: sha256:470a273612775a2ffa860bac5576027b673eebc35c8612506793b6fd3181ba73
+metadata:
+  title: 方壺存稿
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:04:34.627415'
+  juan_title: 徐誼書
+  source:
+    repository: kanripo
+    path: KR4d0326/KR4d0326_005.txt
+hash: sha256:159af884f5095ed0abf51d1f956e2471601b47dfde0c77e91897b705983e97a2
