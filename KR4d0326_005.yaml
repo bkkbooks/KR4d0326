@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0326_WYG_005-1a, image: WYG1178/WYG1178-0143a.png}
 body:
-  text: 徐誼書誼頓首再拜叔耕秘正契友誼妄意欲以文學履行上之於朝前書已常畧陳之矣今移牒州縣使備書吏筆札就宅上抄録著述又嘗以書嘱南老運幹董督其事若春間畢事便當從南昌附奏恐州縣未悉此意先自納之官劵以為紙筆之需辱領畧幸甚百懐續得叙布不宣誼頓首再拜
-  hash: sha256:470a273612775a2ffa860bac5576027b673eebc35c8612506793b6fd3181ba73
+  text: 徐誼書誼頓首再拜叔耕祕正契友誼妄意欲以文學履行上之於朝前書已常略陳之矣今移牒州縣使備書吏筆札就宅上抄録著述又嘗以書囑南老運幹董督其事若春間畢事便當從南昌附奏恐州縣未悉此意先自納之官劵以為紙筆之需辱領略幸甚百懷續得敘布不宣誼頓首再拜
+  hash: sha256:8f598bd6d0595c8a01dbdfb8c881f2aef800bfc28ea286888a72b213f82c48e9
 metadata:
   title: 方壺存稿
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0326/KR4d0326_005.txt
-hash: sha256:939cd7dccf1f28da35b8e67b167f6919b22c0b9d87fe0a7185075e8bc4af0a0d
+hash: sha256:0c64edd85c2831701239107e98df91e7bc5560452f3523ccea5f320cb1c09497
